@@ -1,0 +1,25 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "sidebar_menu_and_dashboard_flutter_sdk_by_techieblossom",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "sidebar_menu_and_dashboard_flutter_sdk_by_techieblossom (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "sidebar_menu_and_dashboard_flutter_sdk_by_techieblossom (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}
